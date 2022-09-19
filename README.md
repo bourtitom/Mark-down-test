@@ -1,8 +1,7 @@
 # Hello World
 
 
-<img src="https://user-images.githubusercontent.com/90605735/169262743-7a746f69-0a4a-417f-9316-585775fa95ae.png" alt="">
-
+![sorcier png](https://user-images.githubusercontent.com/90605735/190987190-3a0efb22-611c-479e-b211-caa5bcbfbd4a.png)
 
 ## My Presentation 
 
@@ -21,6 +20,7 @@ je m'appelle Tom j'ai 16 et je suis chez Eden School en 1er Année
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### En cours : 
